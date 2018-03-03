@@ -72,9 +72,6 @@
         });
       }
     </script>
-
-
-
   </head>
 
   <body>
@@ -151,10 +148,6 @@
       swipeable : true,
       responsiveThreshold : 1920
     });
-
-
-
-
   });
 
     </script>
