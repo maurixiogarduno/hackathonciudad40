@@ -81,7 +81,7 @@
 <div class="navbar-fixed">
       <nav class="nav-extended">
         <div class="nav-wrapper">
-          <a href="#" class="brand-logo center">Hackathonciudad40</a>
+          <a href="#" class="brand-logo center"><i class="material-icons">accessibility</i>Hackcity</a>
           <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
           <ul id="nav-mobile" class="right hide-on-med-and-down">
             <li><a href="sass.html">Sass</a></li>
@@ -107,9 +107,37 @@
 
 
       <div id="test1" class="col s12"><div id="map"></div></div>
-      <div id="test2" class="col s12"><div id="map"></div></div>
-      <div id="test3" class="col s12"><div id="map"></div></div>
-      <div id="test4" class="col s12"><div id="map"></div></div>
+      <div id="test2" class="col s12">QUE PASO</div></div>
+      <div id="test3" class="col s12">HOLA</div></div>
+      <div id="test4" class="col s12">QUETAL</div></div>
+
+
+
+      <footer class="page-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col l6 s12">
+            <h5 class="white-text">Footer Content</h5>
+            <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+          </div>
+          <div class="col l4 offset-l2 s12">
+            <h5 class="white-text">Links</h5>
+            <ul>
+              <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
+              <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
+              <li><a class="grey-text text-lighten-3" href="#!">Link 3</a></li>
+              <li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="footer-copyright">
+        <div class="container">
+        © 2014 Copyright Text
+        <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
+        </div>
+      </div>
+    </footer>
 
 
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBJrPNLyl0idJnHtlCXNXv17kbF_fSrySY&libraries=places&callback=initMap" async defer></script>
