@@ -78,7 +78,6 @@
   </head>
 
   <body>
-    <nav>
 <div class="navbar-fixed">
       <nav class="nav-extended">
         <div class="nav-wrapper">
