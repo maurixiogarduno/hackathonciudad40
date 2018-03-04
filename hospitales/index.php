@@ -41,11 +41,12 @@
             </div>
             <div class="nav-content">
               <ul class="tabs tabs-transparent">
-                <li class="tab"><a href="#map"><i class="material-icons left">map</i>Mapas</a></li>
 
-  <li class="tab col s2">
-    <a target="_self" href="hospitales/index.php"><i class="material-icons left">local_hospital</i>Hospitales</a>
-  </li>
+                <li class="tab col s2">
+                  <a target="_self" href="#map"><i class="material-icons left">map</i>Mapas</a>
+                </li>
+
+<li class="tab"><class="active" a href="#map"><i class="material-icons left">local_hospital</i>Hospitales</a></li>
   <li class="tab col s2">
     <a target="_self" href="#"><i class="material-icons left">hotel</i>Centros de Acopio</a>
   </li>
@@ -386,23 +387,26 @@
           }
           var locations = [
             {lat: 19.372383, lng: -99.143667},
+            {lat: 19.372383, lng: -100.143667},
+            {lat: 20.372383, lng: -99.143667},
+            {lat: 19.372383, lng: -101.143667},
+            {lat: 21.372383, lng: -98.143667},
             {lat: 19.372383, lng: -99.143667},
+            {lat: 19.372383, lng: -100.143667},
+            {lat: 20.372383, lng: -99.143667},
+            {lat: 19.372383, lng: -101.143667},
+            {lat: 21.372383, lng: -98.143667},
             {lat: 19.372383, lng: -99.143667},
+            {lat: 19.372383, lng: -100.143667},
+            {lat: 20.372383, lng: -99.143667},
+            {lat: 19.372383, lng: -101.143667},
+            {lat: 21.372383, lng: -98.143667},
             {lat: 19.372383, lng: -99.143667},
+            {lat: 19.372383, lng: -100.143667},
+            {lat: 20.372383, lng: -99.143667},
+            {lat: 19.372383, lng: -101.143667},
             {lat: 21.372383, lng: -98.143667},
-            {lat: 21.372383, lng: -98.143667},
-            {lat: 21.372383, lng: -98.143667},
-            {lat: 21.372383, lng: -98.143667},
-            {lat: 20.372383, lng: -101.143667},
-            {lat: 20.372383, lng: -101.143667},
-            {lat: 20.372383, lng: -101.143667},
-            {lat: 20.372383, lng: -101.143667},
-            {lat: 20.372383, lng: -101.143667},
-            {lat: 21.372383, lng: -101.143667},
-            {lat: 21.372383, lng: -97.143667},
-            {lat: 21.372383, lng: -97.143667},
-            {lat: 21.372383, lng: -97.143667},
-            {lat: 21.372383, lng: -97.143667}
+            {lat: 19.372383, lng: -99.143667}
           ]
 </script>
 <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js">
