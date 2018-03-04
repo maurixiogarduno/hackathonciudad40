@@ -43,11 +43,6 @@
               <ul class="tabs tabs-transparent">
                 <li class="tab"><a href="#map"><i class="material-icons left">map</i>Mapas</a></li>
 
-
-                <li class="tab col s2">
-                  <a target="_self" href="http://encuentrame.me"><i class="material-icons left">map</i>Mapas</a>
-                </li>
-
 <li class="tab"><a class="active" href="#map"><i class="material-icons left">local_hospital</i>Hospitales</a></li>
 
   <li class="tab col s2">
