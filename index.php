@@ -42,9 +42,11 @@
             <div class="nav-content">
               <ul class="tabs tabs-transparent">
                 <li class="tab"><a href="#map"><i class="material-icons left">map</i>Mapas</a></li>
-                <li class="tab"><a href="#2"><i class="material-icons left">pin_drop</i>Agregar</a></li>
-                <li class="tab"><a href="#3"><i class="material-icons left">timeline</i>Graficas</a></li>
-                <li class="tab"><a href="#4"><i class="material-icons left">assignment</i>Estadisticas</a></li>
+                <li class="tab"><a href="#2"><i class="material-icons left">local_hospital</i>Hospitales</a></li>
+                <li class="tab"><a href="#3"><i class="material-icons left">hotel</i>Centros de Acopio</a></li>
+                <li class="tab"><a href="#4"><i class="material-icons left">loupe</i>Agregar</a></li>
+                <li class="tab"><a href="#5"><i class="material-icons left">timeline</i>Graficas</a></li>
+                <li class="tab"><a href="#6"><i class="material-icons left">mail</i>Contacto</a></li>
               </ul>
             </div>
           </nav>
@@ -54,30 +56,31 @@
 
 
      <div id="map"></div>
+     <div id="2" class="col s12">2</div>
+     <div id="3" class="col s12">3</div>
 
-<div id="2" class="col s12">
+<div id="4" class="col s12">
 <div class="row">
     <div class="col s12">
       <ul class="tabs">
-        <li class="tab col s3"><a href="#test1">Test 1</a></li>
-        <li class="tab col s3"><a href="#test2">Test 2</a></li>
-        <li class="tab col s3"><a href="#test3">Test 3</a></li>
-        <li class="tab col s3"><a href="#test4">Test 4</a></li>
+        <li class="tab col s2"><a href="#test1">Centro de Acopio</a></li>
+        <li class="tab col s2"><a href="#test2">Hospital</a></li>
+        <li class="tab col s2"><a href="#test3">Mapa</a></li>
       </ul>
     </div>
     <div id="test1" class="col s12">
       <div class="row">
         <form class="col s12">
           <div class="row">
-            <div class="input-field col s3">
-              <i class="material-icons prefix">account_circle</i>
+            <div class="input-field col s4">
+              <i class="material-icons prefix">accessibility</i>
               <input id="icon_prefix" type="text" class="validate">
-              <label for="icon_prefix">First Name</label>
+              <label for="icon_prefix">Nombre del centro de acopio</label>
             </div>
-            <div class="input-field col s3">
-              <i class="material-icons prefix">phone</i>
+            <div class="input-field col s4">
+              <i class="material-icons prefix">add_location</i>
               <input id="icon_telephone" type="tel" class="validate">
-              <label for="icon_telephone">Telephone</label>
+              <label for="icon_telephone">Hubicación</label>
             </div>
           </div>
         </form>
@@ -91,20 +94,53 @@
 
 
 
+  <div id="5" class="col s12">5</div>
 
 
-     <div id="3" class="col s12">3</div>
-     <div id="4" class="col s12">4</div>
+
+
+
+
+  <div id="6" class="col s12">
+    <div class="row">
+      <br />
+      <br />
+      <form class="col s12">
+        <div class="row">
+          <div class="input-field col s6">
+            <input id="last_name" type="text" class="validate">
+            <label for="last_name">Nombre</label>
+          </div>
+          <div class="input-field col s6">
+            <input id="last_name" type="text" class="validate">
+            <label for="last_name">Hospital o centro de acopio</label>
+          </div>
+        </div>
+        <div class="row">
+          <div class="input-field col s12">
+            <input id="email" type="email" class="validate">
+            <label for="email">Correo electronico</label>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+
+
+
+
+
+
 
      <footer class="page-footer">
        <div class="container">
          <div class="row">
            <div class="col l6 s12">
-             <h5 class="white-text">Footer Content</h5>
-             <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+             <h5 class="white-text">Invitamos a la gente a que haga suya la plataforma</h5>
+             <p class="grey-text text-lighten-4">La elaboración de reportes y el trabajo de los verificadores voluntarios es fundamental para su funcionamiento.</p>
            </div>
            <div class="col l4 offset-l2 s12">
-             <h5 class="white-text">TELEFONOS</h5>
+             <h5 class="white-text">Telefonos</h5>
              <ul>
                <li><a class="grey-text text-lighten-3" href="#!">Cruz Roja 065 o +52(55)5557-5757</a></li>
                <li><a class="grey-text text-lighten-3" href="#!">Servicio Nacional de Emergencias 911</a></li>
