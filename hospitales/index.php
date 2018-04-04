@@ -58,6 +58,19 @@
                 <li class="tab"><a href="#contacto"><i class="material-icons left">mail</i>Contacto</a></li>
               </ul>
             </div>
+
+
+
+            <div class="nav-wrapper">
+              <form>
+                <div class="input-field">
+                  <input id="search" type="search" required>
+                  <label class="label-icon" for="search"><i class="material-icons">search</i></label>
+                  <i class="material-icons">close</i>
+                </div>
+              </form>
+
+
           </nav>
      </div>
      <br />
