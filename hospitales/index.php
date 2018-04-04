@@ -50,7 +50,7 @@
     <a target="_self" href="hospitales/index.php"><i class="material-icons left">local_hospital</i>Hospitales</a>
   </li>
   <li class="tab col s2">
-    <a target="_self" href="google.com"><i class="material-icons left">hotel</i>Centros de Acopio</a>
+    <a target="_self" href="#"><i class="material-icons left">hotel</i>Centros de Acopio</a>
   </li>
                 <li class="tab"><a href="#4"><i class="material-icons left">loupe</i>Agregar</a></li>
                 <li class="tab"><a href="#5"><i class="material-icons left">timeline</i>Graficas</a></li>
@@ -73,6 +73,11 @@
 
           </nav>
      </div>
+     <br />
+     <br />
+     <br />
+     <br />
+     <br />
      <br />
      <br />
 
@@ -101,6 +106,11 @@
               <i class="material-icons prefix">add_location</i>
               <input id="icon_telephone" type="tel" class="validate">
               <label for="icon_telephone">Hubicación</label>
+
+              <button class="btn waves-effect waves-light" type="submit" name="action">Submit
+                <i class="material-icons right">send</i>
+              </button>
+
             </div>
           </div>
         </form>
