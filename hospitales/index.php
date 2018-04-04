@@ -42,15 +42,22 @@
             <div class="nav-content">
               <ul class="tabs tabs-transparent">
 
+<<<<<<< HEAD
                 <li class="tab col s2">
                   <a target="_self" href="http://encuentrame.me"><i class="material-icons left">map</i>Mapas</a>
                 </li>
 
+=======
+>>>>>>> 4de915f7844e956ec46c1a0546e3b9a2c219e83f
 <li class="tab"><a class="active" href="#map"><i class="material-icons left">local_hospital</i>Hospitales</a></li>
 
   <li class="tab col s2">
     <a target="_self" href="hospitales/index.php"><i class="material-icons left">local_hospital</i>Hospitales</a>
   </li>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4de915f7844e956ec46c1a0546e3b9a2c219e83f
   <li class="tab col s2">
     <a target="_self" href="google.com"><i class="material-icons left">hotel</i>Centros de Acopio</a>
   </li>

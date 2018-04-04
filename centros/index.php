@@ -385,18 +385,10 @@
                 {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
           }
           var locations = [
-            {lat: 19.372383, lng: -99.143667},
-            {lat: 19.372383, lng: -99.143667},
-            {lat: 19.372383, lng: -99.143667},
-            {lat: 19.372383, lng: -99.143667},
-            {lat: 19.372383, lng: -99.143667},
-            {lat: 19.372383, lng: -99.143667},
-            {lat: 19.372383, lng: -99.143667},
-            {lat: 19.372383, lng: -99.143667},
+            {lat: 21.372383, lng: -97.143667},
+            {lat: 21.372383, lng: -97.153667},
+            {lat: 21.372383, lng: -97.163667}
 
-            {lat: 20.372383, lng: -97.143667},
-            {lat: 20.372383, lng: -97.153667},
-            {lat: 20.372383, lng: -97.163667}
           ]
 </script>
 <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js">
