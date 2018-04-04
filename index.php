@@ -34,9 +34,9 @@
             <div class="nav-wrapper">
               <a href="#" class="brand-logo center"><i class="material-icons">directions_run</i>Hackcity</a>
               <ul class="right hide-on-med-and-down">
-                <li><a href="badges.html"><i class="material-icons">view_module</i></a></li>
                 <li><a href="collapsible.html"><i class="material-icons">refresh</i></a></li>
                 <li><a href="mobile.html"><i class="material-icons">more_vert</i></a></li>
+                <li><a class="waves-effect waves-light btn">Iniciar Sesion</a></li>
               </ul>
             </div>
             <div class="nav-content">
@@ -89,7 +89,6 @@
     </div>
     <div id="test2" class="col s12">Test 2</div>
     <div id="test3" class="col s12">Test 3</div>
-    <div id="test4" class="col s12">Test 4</div>
   </div>
 
 
@@ -104,7 +103,7 @@
   <div id="6" class="col s12">
     <div class="row">
       <br />
-      <br />
+      <h2>Contacto</h2>
       <form class="col s12">
         <div class="row">
           <div class="input-field col s6">
@@ -113,13 +112,16 @@
           </div>
           <div class="input-field col s6">
             <input id="last_name" type="text" class="validate">
-            <label for="last_name">Hospital o centro de acopio</label>
+            <label for="last_name">Hospital o Centro de Acopio</label>
           </div>
         </div>
         <div class="row">
           <div class="input-field col s12">
             <input id="email" type="email" class="validate">
             <label for="email">Correo electronico</label>
+            <button class="btn waves-effect waves-light" type="submit" name="action">Enviar
+      <i class="material-icons right">send</i>
+    </button>
           </div>
         </div>
       </form>
