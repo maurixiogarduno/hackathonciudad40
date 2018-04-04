@@ -51,7 +51,8 @@
   </li>
                 <li class="tab"><a href="#4"><i class="material-icons left">loupe</i>Agregar</a></li>
                 <li class="tab"><a href="#5"><i class="material-icons left">timeline</i>Graficas</a></li>
-                <li class="tab"><a href="#6"><i class="material-icons left">mail</i>Contacto</a></li>
+                <li class="tab"><a href="#blog"><i class="material-icons left">thumb_up</i>Blog</a></li>
+                <li class="tab"><a href="#contacto"><i class="material-icons left">mail</i>Contacto</a></li>
               </ul>
             </div>
           </nav>
@@ -120,7 +121,7 @@
 
 
 
-  <div id="6" class="col s12">
+  <div id="contacto" class="col s12">
     <div class="row">
       <br />
       <form class="col s12">
@@ -149,7 +150,26 @@
   </div>
 
 
-
+<div id="blog" class="col s12">
+  <br />
+  <div class="row">
+  <div class="col s12 m7">
+    <div class="card">
+      <div class="card-image">
+        <img src="images/centrosDeAcopio.png">
+        <span class="card-title">Card Title</span>
+      </div>
+      <div class="card-content">
+        <p>I am a very simple card. I am good at containing small bits of information.
+        I am convenient because I require little markup to use effectively.</p>
+      </div>
+      <div class="card-action">
+        <a href="#">This is a link</a>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
 
 
 
