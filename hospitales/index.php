@@ -43,12 +43,13 @@
               <ul class="tabs tabs-transparent">
 
                 <li class="tab col s2">
-                  <a target="_self" href="www.encuentrame.me"><i class="material-icons left">map</i>Mapas</a>
+                  <a target="_self" href="http://encuentrame.me"><i class="material-icons left">map</i>Mapas</a>
                 </li>
 
-<li class="tab"><class="active" a href="#map"><i class="material-icons left">local_hospital</i>Hospitales</a></li>
+<li class="tab"><a class="active" href="#map"><i class="material-icons left">local_hospital</i>Hospitales</a></li>
+
   <li class="tab col s2">
-    <a target="_self" href="#"><i class="material-icons left">hotel</i>Centros de Acopio</a>
+    <a target="_self" href="google.com"><i class="material-icons left">hotel</i>Centros de Acopio</a>
   </li>
                 <li class="tab"><a href="#4"><i class="material-icons left">loupe</i>Agregar</a></li>
                 <li class="tab"><a href="#5"><i class="material-icons left">timeline</i>Graficas</a></li>
