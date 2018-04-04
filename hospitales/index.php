@@ -42,11 +42,17 @@
             <div class="nav-content">
               <ul class="tabs tabs-transparent">
                 <li class="tab"><a href="#map"><i class="material-icons left">map</i>Mapas</a></li>
-                <li class="tab"><a href="#2"><i class="material-icons left">local_hospital</i>Hospitales</a></li>
-                <li class="tab"><a href="#3"><i class="material-icons left">hotel</i>Centros de Acopio</a></li>
+
+  <li class="tab col s2">
+    <a target="_self" href="hospitales/index.php"><i class="material-icons left">local_hospital</i>Hospitales</a>
+  </li>
+  <li class="tab col s2">
+    <a target="_self" href="#"><i class="material-icons left">hotel</i>Centros de Acopio</a>
+  </li>
                 <li class="tab"><a href="#4"><i class="material-icons left">loupe</i>Agregar</a></li>
                 <li class="tab"><a href="#5"><i class="material-icons left">timeline</i>Graficas</a></li>
-                <li class="tab"><a href="#6"><i class="material-icons left">mail</i>Contacto</a></li>
+                <li class="tab"><a href="#blog"><i class="material-icons left">thumb_up</i>Blog</a></li>
+                <li class="tab"><a href="#contacto"><i class="material-icons left">mail</i>Contacto</a></li>
               </ul>
             </div>
           </nav>
@@ -56,8 +62,6 @@
 
 
      <div id="map"></div>
-     <div id="2" class="col s12">2</div>
-     <div id="3" class="col s12">3</div>
 
 <div id="4" class="col s12">
 <div class="row">
@@ -117,7 +121,7 @@
 
 
 
-  <div id="6" class="col s12">
+  <div id="contacto" class="col s12">
     <div class="row">
       <br />
       <form class="col s12">
@@ -146,7 +150,150 @@
   </div>
 
 
-
+<div id="blog" class="col s12">
+  <br />
+  <div class="row">
+  <div class="col s2 m4">
+    <div class="card">
+      <div class="card-image">
+        <img src="images/blog1.jpg">
+        <span class="card-title">Card Title</span>
+      </div>
+      <div class="card-content">
+        <p>I am a very simple card. I am good at containing small bits of information.
+        I am convenient because I require little markup to use effectively.</p>
+      </div>
+      <div class="card-action">
+        <a href="#">This is a link</a>
+      </div>
+    </div>
+  </div>
+  <div class="col s2 m4">
+    <div class="card">
+      <div class="card-image">
+        <img src="images/blog2.jpg">
+        <span class="card-title">Card Title</span>
+      </div>
+      <div class="card-content">
+        <p>I am a very simple card. I am good at containing small bits of information.
+        I am convenient because I require little markup to use effectively.</p>
+      </div>
+      <div class="card-action">
+        <a href="#">This is a link</a>
+      </div>
+    </div>
+  </div>
+  <div class="col s2 m4">
+    <div class="card">
+      <div class="card-image">
+        <img src="images/blog3.jpeg">
+        <span class="card-title">Card Title</span>
+      </div>
+      <div class="card-content">
+        <p>I am a very simple card. I am good at containing small bits of information.
+        I am convenient because I require little markup to use effectively.</p>
+      </div>
+      <div class="card-action">
+        <a href="#">This is a link</a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+<div class="col s2 m4">
+  <div class="card">
+    <div class="card-image">
+      <img src="images/blog4.jpg">
+      <span class="card-title">Card Title</span>
+    </div>
+    <div class="card-content">
+      <p>I am a very simple card. I am good at containing small bits of information.
+      I am convenient because I require little markup to use effectively.</p>
+    </div>
+    <div class="card-action">
+      <a href="#">This is a link</a>
+    </div>
+  </div>
+</div>
+<div class="col s2 m4">
+  <div class="card">
+    <div class="card-image">
+      <img src="images/blog5.jpg">
+      <span class="card-title">Card Title</span>
+    </div>
+    <div class="card-content">
+      <p>I am a very simple card. I am good at containing small bits of information.
+      I am convenient because I require little markup to use effectively.</p>
+    </div>
+    <div class="card-action">
+      <a href="#">This is a link</a>
+    </div>
+  </div>
+</div>
+<div class="col s2 m4">
+  <div class="card">
+    <div class="card-image">
+      <img src="images/blog6.jpg">
+      <span class="card-title">Card Title</span>
+    </div>
+    <div class="card-content">
+      <p>I am a very simple card. I am good at containing small bits of information.
+      I am convenient because I require little markup to use effectively.</p>
+    </div>
+    <div class="card-action">
+      <a href="#">This is a link</a>
+    </div>
+  </div>
+</div>
+</div>
+<div class="row">
+<div class="col s2 m4">
+  <div class="card">
+    <div class="card-image">
+      <img src="images/blog7.jpg">
+      <span class="card-title">Card Title</span>
+    </div>
+    <div class="card-content">
+      <p>I am a very simple card. I am good at containing small bits of information.
+      I am convenient because I require little markup to use effectively.</p>
+    </div>
+    <div class="card-action">
+      <a href="#">This is a link</a>
+    </div>
+  </div>
+</div>
+<div class="col s2 m4">
+  <div class="card">
+    <div class="card-image">
+      <img src="images/blog1.jpg">
+      <span class="card-title">Card Title</span>
+    </div>
+    <div class="card-content">
+      <p>I am a very simple card. I am good at containing small bits of information.
+      I am convenient because I require little markup to use effectively.</p>
+    </div>
+    <div class="card-action">
+      <a href="#">This is a link</a>
+    </div>
+  </div>
+</div>
+<div class="col s2 m4">
+  <div class="card">
+    <div class="card-image">
+      <img src="images/blog2.jpg">
+      <span class="card-title">Card Title</span>
+    </div>
+    <div class="card-content">
+      <p>I am a very simple card. I am good at containing small bits of information.
+      I am convenient because I require little markup to use effectively.</p>
+    </div>
+    <div class="card-action">
+      <a href="#">This is a link</a>
+    </div>
+  </div>
+</div>
+</div>
+</div>
 
 
 
