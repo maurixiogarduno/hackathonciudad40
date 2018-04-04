@@ -387,12 +387,9 @@
           }
           var locations = [
             {lat: 19.372383, lng: -99.143667},
-            {lat: 19.372383, lng: -100.143667},
-            {lat: 20.372383, lng: -99.143667},
-            {lat: 19.372383, lng: -101.143667},
-            {lat: 21.372383, lng: -98.143667},
             {lat: 19.372383, lng: -99.143667},
-            {lat: 19.372383, lng: -100.143667}
+            {lat: 19.372383, lng: -99.143667},
+            {lat: 19.372383, lng: -99.143667}
           ]
 </script>
 <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js">
