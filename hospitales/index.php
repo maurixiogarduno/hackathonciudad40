@@ -42,13 +42,8 @@
             <div class="nav-content">
               <ul class="tabs tabs-transparent">
                 <li class="tab"><a href="#map"><i class="material-icons left">map</i>Mapas</a></li>
-
-  <li class="tab col s2">
-    <a target="_self" href="hospitales/index.php"><i class="material-icons left">local_hospital</i>Hospitales</a>
-  </li>
-  <li class="tab col s2">
-    <a target="_self" href="#"><i class="material-icons left">hotel</i>Centros de Acopio</a>
-  </li>
+                <li class="tab"><a href="#2"><i class="material-icons left">local_hospital</i>Hospitales</a></li>
+                <li class="tab"><a href="#3"><i class="material-icons left">hotel</i>Centros de Acopio</a></li>
                 <li class="tab"><a href="#4"><i class="material-icons left">loupe</i>Agregar</a></li>
                 <li class="tab"><a href="#5"><i class="material-icons left">timeline</i>Graficas</a></li>
                 <li class="tab"><a href="#6"><i class="material-icons left">mail</i>Contacto</a></li>
@@ -61,6 +56,8 @@
 
 
      <div id="map"></div>
+     <div id="2" class="col s12">2</div>
+     <div id="3" class="col s12">3</div>
 
 <div id="4" class="col s12">
 <div class="row">
