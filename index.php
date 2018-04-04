@@ -41,9 +41,9 @@
             </div>
             <div class="nav-content">
               <ul class="tabs tabs-transparent">
-                <li class="tab"><a href="#map"><i class="material-icons left">map</i>Mapa</a></li>
-                <li class="tab"><a href="#2"><i class="material-icons left">pin_drop</i>Agrega</a></li>
-                <li class="tab"><a href="#3"><i class="material-icons left">timeline</i>Grafica</a></li>
+                <li class="tab"><a href="#map"><i class="material-icons left">map</i>Mapas</a></li>
+                <li class="tab"><a href="#2"><i class="material-icons left">pin_drop</i>Agregar</a></li>
+                <li class="tab"><a href="#3"><i class="material-icons left">timeline</i>Graficas</a></li>
                 <li class="tab"><a href="#4"><i class="material-icons left">assignment</i>Estadisticas</a></li>
               </ul>
             </div>
@@ -52,9 +52,47 @@
      <br />
      <br />
 
+
      <div id="map"></div>
 
-     <div id="2" class="col s12">2</div>
+<div id="2" class="col s12">
+<div class="row">
+    <div class="col s12">
+      <ul class="tabs">
+        <li class="tab col s3"><a href="#test1">Test 1</a></li>
+        <li class="tab col s3"><a href="#test2">Test 2</a></li>
+        <li class="tab col s3"><a href="#test3">Test 3</a></li>
+        <li class="tab col s3"><a href="#test4">Test 4</a></li>
+      </ul>
+    </div>
+    <div id="test1" class="col s12">
+      <div class="row">
+        <form class="col s12">
+          <div class="row">
+            <div class="input-field col s3">
+              <i class="material-icons prefix">account_circle</i>
+              <input id="icon_prefix" type="text" class="validate">
+              <label for="icon_prefix">First Name</label>
+            </div>
+            <div class="input-field col s3">
+              <i class="material-icons prefix">phone</i>
+              <input id="icon_telephone" type="tel" class="validate">
+              <label for="icon_telephone">Telephone</label>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+    </div>
+    <div id="test2" class="col s12">Test 2</div>
+    <div id="test3" class="col s12">Test 3</div>
+    <div id="test4" class="col s12">Test 4</div>
+  </div>
+
+
+
+
+
      <div id="3" class="col s12">3</div>
      <div id="4" class="col s12">4</div>
 
