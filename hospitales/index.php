@@ -98,23 +98,36 @@
 
 
   <div id="5" class="col s12">
+<br />
 
     <div class="row">
+
+<div class="row">
+
+</div>
+      <h5>50 Afectados</h5>
       <div class="progress">
           <div class="determinate" style="width: 50%"></div>
       </div>
-      <div class="progress">
-      <div class="determinate" style="width: 90%"></div>
-  </div>
-  <div class="progress">
-      <div class="determinate" style="width: 70%"></div>
-  </div>
-  <div class="progress">
-      <div class="determinate" style="width: 60%"></div>
-  </div>
-    </div>
 
-  </div>
+      <h5>14 Acopios</h5>
+      <div class="progress">
+      <div class="determinate" style="width: 14%"></div>
+      </div>
+
+      <h5>23 Pacientes</h5>
+      <div class="progress">
+      <div class="determinate" style="width: 23%"></div>
+      </div>
+
+      <h5>35 Voluntarios</h5>
+      <div class="progress">
+      <div class="determinate" style="width: 35%"></div>
+      </div>
+
+      </div>
+
+    </div>
 
 
 
