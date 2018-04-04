@@ -41,11 +41,12 @@
             </div>
             <div class="nav-content">
               <ul class="tabs tabs-transparent">
-                <li class="tab"><a href="#map"><i class="material-icons left">map</i>Mapas</a></li>
 
-  <li class="tab col s2">
-    <a target="_self" href="hospitales/index.php"><i class="material-icons left">local_hospital</i>Hospitales</a>
-  </li>
+                <li class="tab col s2">
+                  <a target="_self" href="#map"><i class="material-icons left">map</i>Mapas</a>
+                </li>
+
+<li class="tab"><class="active" a href="#map"><i class="material-icons left">local_hospital</i>Hospitales</a></li>
   <li class="tab col s2">
     <a target="_self" href="#"><i class="material-icons left">hotel</i>Centros de Acopio</a>
   </li>

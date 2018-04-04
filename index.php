@@ -98,23 +98,36 @@
 
 
   <div id="5" class="col s12">
+<br />
 
     <div class="row">
+
+<div class="row">
+
+</div>
+      <h5>50 Afectados</h5>
       <div class="progress">
           <div class="determinate" style="width: 50%"></div>
       </div>
-      <div class="progress">
-      <div class="determinate" style="width: 90%"></div>
-  </div>
-  <div class="progress">
-      <div class="determinate" style="width: 70%"></div>
-  </div>
-  <div class="progress">
-      <div class="determinate" style="width: 60%"></div>
-  </div>
-    </div>
 
-  </div>
+      <h5>14 Acopios</h5>
+      <div class="progress">
+      <div class="determinate" style="width: 14%"></div>
+      </div>
+
+      <h5>23 Pacientes</h5>
+      <div class="progress">
+      <div class="determinate" style="width: 23%"></div>
+      </div>
+
+      <h5>35 Voluntarios</h5>
+      <div class="progress">
+      <div class="determinate" style="width: 35%"></div>
+      </div>
+
+      </div>
+
+    </div>
 
 
 
@@ -373,26 +386,23 @@
           }
           var locations = [
             {lat: 19.372383, lng: -99.143667},
-            {lat: 19.372383, lng: -100.143667},
-            {lat: 20.372383, lng: -99.143667},
-            {lat: 19.372383, lng: -101.143667},
-            {lat: 21.372383, lng: -98.143667},
             {lat: 19.372383, lng: -99.143667},
-            {lat: 19.372383, lng: -100.143667},
-            {lat: 20.372383, lng: -99.143667},
-            {lat: 19.372383, lng: -101.143667},
-            {lat: 21.372383, lng: -98.143667},
             {lat: 19.372383, lng: -99.143667},
-            {lat: 19.372383, lng: -100.143667},
-            {lat: 20.372383, lng: -99.143667},
-            {lat: 19.372383, lng: -101.143667},
-            {lat: 21.372383, lng: -98.143667},
             {lat: 19.372383, lng: -99.143667},
-            {lat: 19.372383, lng: -100.143667},
-            {lat: 20.372383, lng: -99.143667},
-            {lat: 19.372383, lng: -101.143667},
             {lat: 21.372383, lng: -98.143667},
-            {lat: 19.372383, lng: -99.143667}
+            {lat: 21.372383, lng: -98.143667},
+            {lat: 21.372383, lng: -98.143667},
+            {lat: 21.372383, lng: -98.143667},
+            {lat: 20.372383, lng: -101.143667},
+            {lat: 20.372383, lng: -101.143667},
+            {lat: 20.372383, lng: -101.143667},
+            {lat: 20.372383, lng: -101.143667},
+            {lat: 20.372383, lng: -101.143667},
+            {lat: 21.372383, lng: -101.143667},
+            {lat: 21.372383, lng: -97.143667},
+            {lat: 21.372383, lng: -97.143667},
+            {lat: 21.372383, lng: -97.143667},
+            {lat: 21.372383, lng: -97.143667}
           ]
 </script>
 <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js">
